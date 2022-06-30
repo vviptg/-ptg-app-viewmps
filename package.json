@@ -1,7 +1,7 @@
 {
   "name": "node-starter",
   "version": "0.0.0",
-  "scripts": {
+  "scripts": {<script src="https://unpkg.com/@stackblitz/sdk/bundles/sdk.umd.js"></script>
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
